@@ -18,7 +18,7 @@ ui <- fluidPage(
            e \\(q_a\\) veic/h, respectivamente. Os veículos retidos na interrupção aglomeram-se na
            densidade de congestionamento \\(k_j\\) e, assim que liberados, a corrente que se forma
            assume valores de velocidade, densidade e fluxo iguais a \\(u_a\\) km/h, \\(k_a\\) veic/km
-           e \\(q_a\\) veic/h, respectivamente. Simule o gráfico das ondas de choque para
+           e \\(q_a\\) veic/h, respectivamente. O gráfico abaixo simula as ondas de choque para
            diferentes valores destes parâmetros iniciais:')
     )
   ),
